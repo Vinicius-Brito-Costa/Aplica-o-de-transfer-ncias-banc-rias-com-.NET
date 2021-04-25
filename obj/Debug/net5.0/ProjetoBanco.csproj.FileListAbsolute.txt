@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.exe
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.deps.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.pdb
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.pdb
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.genruntimeconfig.cache
